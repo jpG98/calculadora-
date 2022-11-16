@@ -1,0 +1,163 @@
+body{
+    background: linear-gradient(to right ,#2c0c33, #9f11c7);
+    
+}
+
+.grid-container{
+    background-color: #ffffff;
+    border-radius: 25px;
+    padding: 100px;
+    max-width: 650px;
+    max-height: 500px;
+    margin-top: 30px;
+    
+}
+
+.Font1{
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+.calc{
+    margin-left: 600px;
+    font-size: 45px;
+}
+
+.container{
+    background-color: #ffffff;
+    border-radius: 25px;
+    padding: 100px;
+    max-width: 650px;
+    max-height: 550px;
+    margin-top: 165px;
+}
+
+.pote{
+    margin-left: 610px;
+    font-size: 45px;
+}
+
+.raiz{
+    margin-left: 586px;
+    font-size: 45px;
+}
+
+.area{
+    margin-left: 545px;
+    font-size: 45px;
+}
+
+.bhaska{
+    margin-left: 624px;
+    font-size: 45px;
+}
+
+.conti{
+    margin-left: 550px;
+    font-size: 45px;
+}
+
+.rodape{
+    margin-top: 45px;
+    background-color: #ffffff;
+    height: 130px;
+ 
+}
+
+.footerzin{
+    color: #000000;
+    font-family: sans-serif;
+    
+}
+
+.contN2{
+    margin-left: 70px;
+    font-family: sans-serif;
+    color: #000000;
+    font-size: 23px;
+    position: absolute;
+    margin-top: 99px;
+}
+
+.contN1{
+    margin-left: 70px;
+    font-family: sans-serif;
+    color: #000000;
+    font-size: 23px;
+    position: absolute;
+    margin-top: 20px;
+}
+
+.baskA{
+    margin-left: 70px;
+    font-family: sans-serif;
+    color: #000000;
+    font-size: 23px;
+    position: absolute;
+    margin-top: 68px;
+}
+
+.baskB{
+    margin-left: 70px;
+    font-family: sans-serif;
+    color: #000000;
+    font-size: 23px;
+    position: absolute;
+    margin-top: 100px;
+}
+
+.baskC{
+    margin-left: 70px;
+    font-family: sans-serif;
+    color: #000000;
+    font-size: 23px;
+    position: absolute;
+    margin-top: 134px;
+}
+
+.poteN2{
+    margin-left: 70px;
+    font-family: sans-serif;
+    color: #000000;
+    font-size: 23px;
+    position: absolute;
+    margin-top: 77px;
+}
+
+.poteN1{
+    margin-left: 70px;
+    font-family: sans-serif;
+    color: #000000;
+    font-size: 23px;
+    position: absolute;
+    margin-top: 46px;
+}
+
+.raizN{
+    margin-left: 70px;
+    font-family: sans-serif;
+    color: #000000;
+    font-size: 23px;
+    position: absolute;
+    margin-top: 23px;
+}
+
+.areaN2{
+    margin-left: 70px;
+    font-family: sans-serif;
+    color: #000000;
+    font-size: 23px;
+    position: absolute;
+    margin-top: 77px;
+}
+
+.areaN1{
+    margin-left: 70px;
+    font-family: sans-serif;
+    color: #000000;
+    font-size: 23px;
+    position: absolute;
+    margin-top: 46px;
+}
+
+
