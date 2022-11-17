@@ -1,16 +1,16 @@
 body{
-    background: linear-gradient(to right ,#2c0c33, #9f11c7);
+    background: linear-gradient(to right ,#d1d379, #bab845);
     
 }
 
 .grid-container{
-    background-color: #ffffff;
+    background: linear-gradient(to right ,#dde485, #d3e440);
     border-radius: 25px;
     padding: 100px;
-    max-width: 650px;
-    max-height: 500px;
+    max-width: 450px;
+    max-height: 400px;
     margin-top: 30px;
-    
+    border: 2px ;
 }
 
 .Font1{
@@ -24,12 +24,12 @@ body{
 }
 
 .container{
-    background-color: #ffffff;
+    background: linear-gradient(to right ,#dde485, #d3e440);
     border-radius: 25px;
     padding: 100px;
     max-width: 650px;
     max-height: 550px;
-    margin-top: 165px;
+    margin-top: 40px;
 }
 
 .pote{
@@ -59,7 +59,7 @@ body{
 
 .rodape{
     margin-top: 45px;
-    background-color: #ffffff;
+    background-color: #ffe600;
     height: 130px;
  
 }
@@ -160,4 +160,9 @@ body{
     margin-top: 46px;
 }
 
+a{color:rgb(0, 0, 0) ;}
+
+.cor{
+    color: #000000;
+}
 
